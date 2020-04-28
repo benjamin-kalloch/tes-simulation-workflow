@@ -1,0 +1,27 @@
+[submodule "meshheadmodel"]
+	path = meshheadmodel
+	url = https://github.com/benjamin-kalloch/meshheadmodel
+[submodule "surfaceremesh"]
+	path = surfaceremesh
+	url = https://github.com/benjamin-kalloch/surfaceremesh
+[submodule "tdcs-sim-utils"]
+	path = tdcs-sim-utils
+	url = https://github.com/benjamin-kalloch/tdcs-sim-utils
+[submodule "mount-electrodes"]
+	path = mount-electrodes
+	url = https://github.com/benjamin-kalloch/mount-electrodes
+[submodule "tdcssolver"]
+	path = tdcssolver
+	url = https://github.com/benjamin-kalloch/tdcssolver
+[submodule "pvdiffusiontoconductivitytensor"]
+	path = pvdiffusiontoconductivitytensor
+	url = https://github.com/benjamin-kalloch/pvdiffusiontoconductivitytensor
+[submodule "pvsafeoffield"]
+	path = pvsafeoffield
+	url = https://github.com/benjamin-kalloch/pvsafeoffield
+[submodule "pvsymmatrixtogenmatrix"]
+	path = pvsymmatrixtogenmatrix
+	url = https://github.com/benjamin-kalloch/pvsymmatrixtogenmatrix
+[submodule "threelayeredspheremodel"]
+	path = threelayeredspheremodel
+	url = https://github.com/benjamin-kalloch/threelayeredspheremodel
