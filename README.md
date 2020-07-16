@@ -9,4 +9,4 @@ git submodule update
 ```
 
 ###### Useful links
-[1] Online view of the publication: 
+[1] Online view of the publication: https://doi.org/10.1371/journal.pone.0228119
